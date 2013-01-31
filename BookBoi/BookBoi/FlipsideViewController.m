@@ -1,18 +1,18 @@
 //
-//  DataViewController.m
+//  FlipsideViewController.m
 //  BookBoi
 //
 //  Created by Anan Mallik on 1/30/13.
 //  Copyright (c) 2013 BookBoi. All rights reserved.
 //
 
-#import "DataViewController.h"
+#import "FlipsideViewController.h"
 
-@interface DataViewController ()
+@interface FlipsideViewController ()
 
 @end
 
-@implementation DataViewController
+@implementation FlipsideViewController
 
 - (void)viewDidLoad
 {
@@ -26,10 +26,11 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void)viewWillAppear:(BOOL)animated
+#pragma mark - Actions
+
+- (IBAction)done:(id)sender
 {
-    [super viewWillAppear:animated];
-    self.dataLabel.text = [self.dataObject description];
+    [self.delegate flipsideViewControllerDidFinish:self];
 }
 
 @end

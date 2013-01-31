@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0450"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,17 +13,17 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "347877B516B9FB7E00057BBC"
-               BuildableName = "BookBoi.app"
-               BlueprintName = "BookBoi"
-               ReferencedContainer = "container:BookBoi.xcodeproj">
+               BlueprintIdentifier = "FCACA8EA145BDD1500617F93"
+               BuildableName = "CustomTabBar.app"
+               BlueprintName = "CustomTabBar"
+               ReferencedContainer = "container:CustomTabBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
-      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.GDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
@@ -32,29 +31,28 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "347877B516B9FB7E00057BBC"
-            BuildableName = "BookBoi.app"
-            BlueprintName = "BookBoi"
-            ReferencedContainer = "container:BookBoi.xcodeproj">
+            BlueprintIdentifier = "FCACA8EA145BDD1500617F93"
+            BuildableName = "CustomTabBar.app"
+            BlueprintName = "CustomTabBar"
+            ReferencedContainer = "container:CustomTabBar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
    <LaunchAction
-      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
-      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.GDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Debug"
-      ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "347877B516B9FB7E00057BBC"
-            BuildableName = "BookBoi.app"
-            BlueprintName = "BookBoi"
-            ReferencedContainer = "container:BookBoi.xcodeproj">
+            BlueprintIdentifier = "FCACA8EA145BDD1500617F93"
+            BuildableName = "CustomTabBar.app"
+            BlueprintName = "CustomTabBar"
+            ReferencedContainer = "container:CustomTabBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +67,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "347877B516B9FB7E00057BBC"
-            BuildableName = "BookBoi.app"
-            BlueprintName = "BookBoi"
-            ReferencedContainer = "container:BookBoi.xcodeproj">
+            BlueprintIdentifier = "FCACA8EA145BDD1500617F93"
+            BuildableName = "CustomTabBar.app"
+            BlueprintName = "CustomTabBar"
+            ReferencedContainer = "container:CustomTabBar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
