@@ -14,6 +14,8 @@
 		3449FD0916C092A1006BDA89 /* ad2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0816C092A1006BDA89 /* ad2.png */; };
 		3449FD0B16C09385006BDA89 /* ad3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0A16C09385006BDA89 /* ad3.png */; };
 		3449FD0D16C09428006BDA89 /* ad4.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0C16C09428006BDA89 /* ad4.png */; };
+		34715E1E16C0B3CC0006542B /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 34715E1D16C0B3CC0006542B /* logo.png */; };
+		34715E2116C0B5700006542B /* logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 34715E2016C0B5700006542B /* logo1.png */; };
 		FCACA8F0145BDD1500617F93 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCACA8EF145BDD1500617F93 /* UIKit.framework */; };
 		FCACA8F2145BDD1500617F93 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCACA8F1145BDD1500617F93 /* Foundation.framework */; };
 		FCACA8F4145BDD1500617F93 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCACA8F3145BDD1500617F93 /* CoreGraphics.framework */; };
@@ -48,6 +50,8 @@
 		3449FD0816C092A1006BDA89 /* ad2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad2.png; sourceTree = "<group>"; };
 		3449FD0A16C09385006BDA89 /* ad3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad3.png; sourceTree = "<group>"; };
 		3449FD0C16C09428006BDA89 /* ad4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad4.png; sourceTree = "<group>"; };
+		34715E1D16C0B3CC0006542B /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		34715E2016C0B5700006542B /* logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo1.png; sourceTree = "<group>"; };
 		FCACA8EB145BDD1500617F93 /* BookBoi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookBoi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCACA8EF145BDD1500617F93 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FCACA8F1145BDD1500617F93 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -164,7 +168,9 @@
 				FCACA91A145BE11E00617F93 /* HomeDB.png */,
 				FCACA91B145BE11E00617F93 /* HomeLB.png */,
 				3449FD0A16C09385006BDA89 /* ad3.png */,
+				34715E1D16C0B3CC0006542B /* logo.png */,
 				FCACA91C145BE11E00617F93 /* InformationDB.png */,
+				34715E2016C0B5700006542B /* logo1.png */,
 				FCACA91D145BE11E00617F93 /* InformationLB.png */,
 				3449FD0C16C09428006BDA89 /* ad4.png */,
 				FCACA91E145BE11E00617F93 /* MoreDB.png */,
@@ -248,6 +254,8 @@
 				3449FD0916C092A1006BDA89 /* ad2.png in Resources */,
 				3449FD0B16C09385006BDA89 /* ad3.png in Resources */,
 				3449FD0D16C09428006BDA89 /* ad4.png in Resources */,
+				34715E1E16C0B3CC0006542B /* logo.png in Resources */,
+				34715E2116C0B5700006542B /* logo1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
