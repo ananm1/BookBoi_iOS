@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		341123C816C141C0001E74F1 /* shelf.png in Resources */ = {isa = PBXBuildFile; fileRef = 341123C716C141C0001E74F1 /* shelf.png */; };
+		341123CB16C1466D001E74F1 /* barscan.png in Resources */ = {isa = PBXBuildFile; fileRef = 341123CA16C1466D001E74F1 /* barscan.png */; };
 		3449FCFF16C06322006BDA89 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FCFE16C06322006BDA89 /* Default-568h@2x.png */; };
 		3449FD0716C090C1006BDA89 /* ad1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0616C090C1006BDA89 /* ad1.png */; };
 		3449FD0916C092A1006BDA89 /* ad2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0816C092A1006BDA89 /* ad2.png */; };
@@ -44,6 +46,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		341123C716C141C0001E74F1 /* shelf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shelf.png; sourceTree = "<group>"; };
+		341123CA16C1466D001E74F1 /* barscan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barscan.png; sourceTree = "<group>"; };
 		3449FCFE16C06322006BDA89 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		3449FD0616C090C1006BDA89 /* ad1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad1.png; sourceTree = "<group>"; };
 		3449FD0816C092A1006BDA89 /* ad2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad2.png; sourceTree = "<group>"; };
@@ -171,10 +175,12 @@
 				3449FD0A16C09385006BDA89 /* ad3.png */,
 				34715E1D16C0B3CC0006542B /* logo.png */,
 				FCACA91C145BE11E00617F93 /* InformationDB.png */,
+				341123CA16C1466D001E74F1 /* barscan.png */,
 				34715E2016C0B5700006542B /* logo1.png */,
 				34D96CCC16C0EFE000CBC7D1 /* sub.png */,
 				FCACA91D145BE11E00617F93 /* InformationLB.png */,
 				34D96CD116C0F24600CBC7D1 /* buy2.png */,
+				341123C716C141C0001E74F1 /* shelf.png */,
 				3499490E16C0C6560097C060 /* home.png */,
 				3449FD0C16C09428006BDA89 /* ad4.png */,
 				FCACA91E145BE11E00617F93 /* MoreDB.png */,
@@ -263,6 +269,8 @@
 				34E2E85116C0E2920050EA0D /* icon2.png in Resources */,
 				34D96CCD16C0EFE000CBC7D1 /* sub.png in Resources */,
 				34D96CD216C0F24600CBC7D1 /* buy2.png in Resources */,
+				341123C816C141C0001E74F1 /* shelf.png in Resources */,
+				341123CB16C1466D001E74F1 /* barscan.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
