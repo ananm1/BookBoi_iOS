@@ -7,7 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3483C5A016BA17560055AAC0 /* icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3483C59F16BA17560055AAC0 /* icon.jpg */; };
+		3449FCFC16C05440006BDA89 /* ButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3449FCFB16C05440006BDA89 /* ButtonViewController.m */; };
+		3449FCFF16C06322006BDA89 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FCFE16C06322006BDA89 /* Default-568h@2x.png */; };
+		3449FD0116C07860006BDA89 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0016C07860006BDA89 /* icon.png */; };
+		3449FD0716C090C1006BDA89 /* ad1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0616C090C1006BDA89 /* ad1.png */; };
+		3449FD0916C092A1006BDA89 /* ad2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0816C092A1006BDA89 /* ad2.png */; };
+		3449FD0B16C09385006BDA89 /* ad3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0A16C09385006BDA89 /* ad3.png */; };
+		3449FD0D16C09428006BDA89 /* ad4.png in Resources */ = {isa = PBXBuildFile; fileRef = 3449FD0C16C09428006BDA89 /* ad4.png */; };
 		FCACA8F0145BDD1500617F93 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCACA8EF145BDD1500617F93 /* UIKit.framework */; };
 		FCACA8F2145BDD1500617F93 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCACA8F1145BDD1500617F93 /* Foundation.framework */; };
 		FCACA8F4145BDD1500617F93 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCACA8F3145BDD1500617F93 /* CoreGraphics.framework */; };
@@ -34,7 +40,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3483C59F16BA17560055AAC0 /* icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon.jpg; sourceTree = "<group>"; };
+		3449FCFA16C05440006BDA89 /* ButtonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonViewController.h; sourceTree = "<group>"; };
+		3449FCFB16C05440006BDA89 /* ButtonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonViewController.m; sourceTree = "<group>"; };
+		3449FCFE16C06322006BDA89 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		3449FD0016C07860006BDA89 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		3449FD0616C090C1006BDA89 /* ad1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad1.png; sourceTree = "<group>"; };
+		3449FD0816C092A1006BDA89 /* ad2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad2.png; sourceTree = "<group>"; };
+		3449FD0A16C09385006BDA89 /* ad3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad3.png; sourceTree = "<group>"; };
+		3449FD0C16C09428006BDA89 /* ad4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ad4.png; sourceTree = "<group>"; };
 		FCACA8EB145BDD1500617F93 /* BookBoi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookBoi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCACA8EF145BDD1500617F93 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FCACA8F1145BDD1500617F93 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -83,6 +96,8 @@
 		FCACA8E0145BDD1500617F93 = {
 			isa = PBXGroup;
 			children = (
+				3449FD0016C07860006BDA89 /* icon.png */,
+				3449FCFE16C06322006BDA89 /* Default-568h@2x.png */,
 				FCACA8F5145BDD1500617F93 /* CustomTabBar */,
 				FCACA8EE145BDD1500617F93 /* Frameworks */,
 				FCACA8EC145BDD1500617F93 /* Products */,
@@ -110,6 +125,8 @@
 		FCACA8F5145BDD1500617F93 /* CustomTabBar */ = {
 			isa = PBXGroup;
 			children = (
+				3449FCFB16C05440006BDA89 /* ButtonViewController.m */,
+				3449FCFA16C05440006BDA89 /* ButtonViewController.h */,
 				FCACA8FE145BDD1500617F93 /* AppDelegate.h */,
 				FCACA8FF145BDD1500617F93 /* AppDelegate.m */,
 				FCACA901145BDD1500617F93 /* MainStoryboard.storyboard */,
@@ -132,7 +149,6 @@
 			children = (
 				FCACA8F7145BDD1500617F93 /* BookBoi-Info.plist */,
 				FCACA8F8145BDD1500617F93 /* InfoPlist.strings */,
-				3483C59F16BA17560055AAC0 /* icon.jpg */,
 				FCACA8FB145BDD1500617F93 /* main.m */,
 				FCACA8FD145BDD1500617F93 /* BookBoi-Prefix.pch */,
 			);
@@ -144,11 +160,15 @@
 			children = (
 				FCACA918145BE11E00617F93 /* BuildingsDB.png */,
 				FCACA919145BE11E00617F93 /* BuildingsLB.png */,
+				3449FD0616C090C1006BDA89 /* ad1.png */,
 				FCACA91A145BE11E00617F93 /* HomeDB.png */,
 				FCACA91B145BE11E00617F93 /* HomeLB.png */,
+				3449FD0A16C09385006BDA89 /* ad3.png */,
 				FCACA91C145BE11E00617F93 /* InformationDB.png */,
 				FCACA91D145BE11E00617F93 /* InformationLB.png */,
+				3449FD0C16C09428006BDA89 /* ad4.png */,
 				FCACA91E145BE11E00617F93 /* MoreDB.png */,
+				3449FD0816C092A1006BDA89 /* ad2.png */,
 				FCACA91F145BE11E00617F93 /* MoreLB.png */,
 				FCACA920145BE11E00617F93 /* ScheduleDB.png */,
 				FCACA921145BE11E00617F93 /* ScheduleLB.png */,
@@ -222,7 +242,12 @@
 				FCACA929145BE11E00617F93 /* MoreLB.png in Resources */,
 				FCACA92A145BE11E00617F93 /* ScheduleDB.png in Resources */,
 				FCACA92B145BE11E00617F93 /* ScheduleLB.png in Resources */,
-				3483C5A016BA17560055AAC0 /* icon.jpg in Resources */,
+				3449FCFF16C06322006BDA89 /* Default-568h@2x.png in Resources */,
+				3449FD0116C07860006BDA89 /* icon.png in Resources */,
+				3449FD0716C090C1006BDA89 /* ad1.png in Resources */,
+				3449FD0916C092A1006BDA89 /* ad2.png in Resources */,
+				3449FD0B16C09385006BDA89 /* ad3.png in Resources */,
+				3449FD0D16C09428006BDA89 /* ad4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,6 +262,7 @@
 				FCACA900145BDD1500617F93 /* AppDelegate.m in Sources */,
 				FCACA906145BDD1500617F93 /* FirstViewController.m in Sources */,
 				FCACA90D145BDD1500617F93 /* SecondViewController.m in Sources */,
+				3449FCFC16C05440006BDA89 /* ButtonViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
